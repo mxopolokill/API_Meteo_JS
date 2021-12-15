@@ -32,6 +32,7 @@ if (navigator.geolocation) {
     }
   );
 }
+
 //APEL API
 function AppelAPI(long, lat) {
   fetch(
